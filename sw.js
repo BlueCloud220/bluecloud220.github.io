@@ -15,7 +15,7 @@
  * conoce como número menor y se cambia cuando se realizan
  * modificaciones menores.
  */
-const VERSION = "7.00";
+const VERSION = "1.00";
 
 /**
  * Nombre de la carpeta de caché.
@@ -30,6 +30,8 @@ const ARCHIVOS = [
   "ayuda.html",
   "favicon.ico",
   "index.html",
+  "renderCliente.html",
+  "renderServidor.html",
   "site.webmanifest",
   "css/dark-hc.css",
   "css/dark-mc.css",
@@ -39,7 +41,8 @@ const ARCHIVOS = [
   "css/light-mc.css",
   "css/light.css",
   "css/transicion_pestanas.css",
-  "img/icono2048.png",
+  "error/errorinterno.html",
+  "error/resultadonojson.html",
   "img/maskable_icon.png",
   "img/maskable_icon_x128.png",
   "img/maskable_icon_x192.png",
@@ -76,14 +79,17 @@ const ARCHIVOS = [
   "lib/fonts/roboto-v32-latin-regular.woff2",
   "lib/js/abreElementoHtml.js",
   "lib/js/cierraElementoHtmo.js",
+  "lib/js/consumeJson.js",
   "lib/js/exportaAHtml.js",
   "lib/js/getAttribute.js",
   "lib/js/htmlentities.js",
   "lib/js/muestraError.js",
+  "lib/js/muestraObjeto.js",
   "lib/js/muestraTextoDeAyuda.js",
   "lib/js/ProblemDetails.js",
   "lib/js/querySelector.js",
   "lib/js/resaltaSiEstasEn.js",
+  "lib/js/submitForm.js",
   "lib/js/const/ES_APPLE.js",
   "lib/js/custom/md-menu-button.js",
   "lib/js/custom/md-options-menu.js",
