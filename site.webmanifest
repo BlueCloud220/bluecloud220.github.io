@@ -6,7 +6,6 @@
   "display": "standalone",
   "theme_color": "#4493ff",
   "background_color": "#fffbfe",
-  "display_override": ["window-controls-overlay"],
   "description": "Aplicación que cuenta chistes que los integrantes de Blue Cloud dijeron.",
   "screenshots": [
     {
