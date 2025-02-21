@@ -6,7 +6,7 @@
   "display": "standalone",
   "theme_color": "#4493ff",
   "background_color": "#fffbfe",
-  "description": "Aplicación que cuenta chistes que los integrantes de Blue Cloud dijeron.",
+  "description": "Aplicación divertida que permite explorar los chistes de los integrantes del equipo de Blue Cloud, con información renderizada tanto en el cliente como en el servidor.",
   "screenshots": [
     {
       "src": "/img/screenshot_horizontal.png",
