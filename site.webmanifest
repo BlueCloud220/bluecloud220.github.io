@@ -4,7 +4,7 @@
   "id": "/index.html",
   "start_url": "/index.html",
   "display": "standalone",
-  "theme_color": "#4493ff",
+  "theme_color": "#ffeb3b",
   "background_color": "#fffbfe",
   "description": "Aplicación divertida que permite explorar los chistes de los integrantes del equipo de Blue Cloud, con información renderizada tanto en el cliente como en el servidor.",
   "screenshots": [
