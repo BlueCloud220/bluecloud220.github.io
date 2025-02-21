@@ -2,7 +2,7 @@
 <html lang="es" class="light dark">
   <head>
     <meta charset="UTF-8" />
-    <title>Render en el cliente - Chascarrillos</title>
+    <title>Render en el cliente - Cuentachistes Cloud</title>
 
     <script src="js/registraServiceWorker.js"></script>
 
@@ -19,14 +19,14 @@
 
   <body onload="descargaDatos()">
     <md-top-app-bar adicional="tab" style="text-align: center">
-      <h1>Render en el cliente - Chascarrillos</h1>
+      <h1>Render en el cliente - Cuentachistes Cloud</h1>
     </md-top-app-bar>
 
     <nav-tab-fixed id="tab"></nav-tab-fixed>
 
     <main>
       <ul class="md-list" id="lista">
-        <li class="md-two-line">
+        <li class="md-three-line">
           <progress max="100">Cargando…</progress>
         </li>
       </ul>
@@ -52,11 +52,11 @@
                 : "";
             const chiste =
               typeof modelo.chiste === "string"
-                ? htmlentities(modelo.chiste)
+                ? htmlentities(modelo.chiste).replace(/\n/g, "<br>")
                 : "";
             render +=
               /* html */
-              `<li class="md-two-line">
+              `<li class="md-three-line">
                 <span class="headline">${nombre}</span>
                 <span class="supporting">${chiste}</span>
               </li>`;

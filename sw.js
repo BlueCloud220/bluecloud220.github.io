@@ -20,7 +20,7 @@ const VERSION = "1.03";
 /**
  * Nombre de la carpeta de caché.
  */
-const CACHE = "chascarrillos";
+const CACHE = "cuentachistes";
 
 /**
  * Archivos requeridos para que la aplicación funcione fuera de
@@ -57,19 +57,13 @@ const ARCHIVOS = [
   "js/nav-tab-fixed.js",
   "js/registraServiceWorker.js",
   "lib/css/material-symbols-outlined.css",
-  "lib/css/md-cards.css",
-  "lib/css/md-fab-primary.css",
   "lib/css/md-filled-button.css",
   "lib/css/md-filled-text-field.css",
   "lib/css/md-list.css",
   "lib/css/md-menu.css",
-  "lib/css/md-navigation-bar.css",
-  "lib/css/md-outline-button.css",
   "lib/css/md-ripple.css",
-  "lib/css/md-segmented-button.css",
   "lib/css/md-slider-field.css",
   "lib/css/md-standard-icon-button.css",
-  "lib/css/md-switch.css",
   "lib/css/md-tab.css",
   "lib/css/md-top-app-bar.css",
   "lib/css/roboto.css",

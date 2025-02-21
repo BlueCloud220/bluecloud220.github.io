@@ -1,6 +1,6 @@
 {
-  "short_name": "Chascarrillos",
-  "name": "Chascarrillos",
+  "short_name": "Cuentachistes",
+  "name": "Cuentachistes Cloud",
   "id": "/index.html",
   "start_url": "/index.html",
   "display": "standalone",
@@ -13,14 +13,14 @@
       "sizes": "1257x646",
       "type": "image/png",
       "form_factor": "wide",
-      "label": "Chascarrillos"
+      "label": "Cuentachistes Cloud"
     },
     {
       "src": "/img/screenshot_vertical.png",
       "sizes": "744x805",
       "type": "image/png",
       "form_factor": "narrow",
-      "label": "Chascarrillos (2)"
+      "label": "Cuentachistes Cloud (2)"
     }
   ],
   "icons": [
