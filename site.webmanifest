@@ -10,17 +10,59 @@
   "screenshots": [
     {
       "src": "/img/screenshot_horizontal.png",
-      "sizes": "1257x646",
+      "sizes": "1746x1116",
       "type": "image/png",
       "form_factor": "wide",
       "label": "Cuentachistes Cloud"
     },
     {
+      "src": "/img/screenshot_horizontal_2.png",
+      "sizes": "1746x1308",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Cuentachistes Cloud (2)"
+    },
+    {
+      "src": "/img/screenshot_horizontal_3.png",
+      "sizes": "1746x1308",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Cuentachistes Cloud (3)"
+    },
+    {
+      "src": "/img/screenshot_horizontal_4.png",
+      "sizes": "1746x1356",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Cuentachistes Cloud (4)"
+    },
+    {
       "src": "/img/screenshot_vertical.png",
-      "sizes": "744x805",
+      "sizes": "986x1354",
       "type": "image/png",
       "form_factor": "narrow",
-      "label": "Cuentachistes Cloud (2)"
+      "label": "Cuentachistes Cloud (5)"
+    },
+    {
+      "src": "/img/screenshot_vertical_2.png",
+      "sizes": "986x1354",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Cuentachistes Cloud (6)"
+    },
+    {
+      "src": "/img/screenshot_vertical_3.png",
+      "sizes": "986x1354",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Cuentachistes Cloud (7)"
+    },
+    {
+      "src": "/img/screenshot_vertical_4.png",
+      "sizes": "986x1388",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Cuentachistes Cloud (8)"
     }
   ],
   "icons": [

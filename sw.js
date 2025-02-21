@@ -15,7 +15,7 @@
  * conoce como número menor y se cambia cuando se realizan
  * modificaciones menores.
  */
-const VERSION = "1.06";
+const VERSION = "1.07";
 
 /**
  * Nombre de la carpeta de caché.
@@ -43,6 +43,7 @@ const ARCHIVOS = [
   "css/transicion_pestanas.css",
   "error/errorinterno.html",
   "error/resultadonojson.html",
+  "img/icono2048.png",
   "img/maskable_icon.png",
   "img/maskable_icon_x128.png",
   "img/maskable_icon_x192.png",
@@ -52,7 +53,13 @@ const ARCHIVOS = [
   "img/maskable_icon_x72.png",
   "img/maskable_icon_x96.png",
   "img/screenshot_horizontal.png",
+  "img/screenshot_horizontal_2.png",
+  "img/screenshot_horizontal_3.png",
+  "img/screenshot_horizontal_4.png",
   "img/screenshot_vertical.png",
+  "img/screenshot_vertical_2.png",
+  "img/screenshot_vertical_3.png",
+  "img/screenshot_vertical_4.png",
   "js/configura.js",
   "js/nav-tab-fixed.js",
   "js/registraServiceWorker.js",
